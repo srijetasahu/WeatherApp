@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body {
-  background-image: url('img/bg-mist.jpg');
+  background-image: url('images/bg-mist.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -119,4 +119,5 @@ body {
   margin-top: 10px;
   display: none;
   color: red;
+
 }
